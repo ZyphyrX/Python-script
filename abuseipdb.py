@@ -37,7 +37,7 @@ def get_abuseipdb_info(api_key, ip_addresses):
 
 def main():
     # Replace 'YOUR_API_KEY' with your actual AbuseIPDB API key
-    api_key = '05f86961fa9e1a056f5d07adbfad5521d5ad4b552cd7ecfc9ea81f0149ac3f20154b196556949f77'
+    api_key = ''
 
     # Prompt user to upload a CSV file
     uploaded = files.upload()
@@ -111,7 +111,7 @@ def get_abuseipdb_info(api_key, ip_addresses):
 
 def main():
     # Replace 'YOUR_API_KEY' with your actual AbuseIPDB API key
-    api_key = '05f86961fa9e1a056f5d07adbfad5521d5ad4b552cd7ecfc9ea81f0149ac3f20154b196556949f77'
+    api_key = ''
 
     # Prompt user to upload a CSV file
     uploaded = files.upload()
